@@ -1,3 +1,7 @@
+# Development of this package has moved to [https://github.com/describo/type-definitions](https://github.com/describo/type-definitions)
+
+
+
 The Describo online UI requires a profile that defines the entities and their properties that can be
 added. This folder has the tools to create that profile.
 
